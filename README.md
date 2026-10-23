@@ -20,8 +20,8 @@ Later steps also need Podman, kubectl and kind. Each lesson tells you when.
 |------|-------|--------|--------|
 | 1 | Java basics | [lessons/01-java-basics.md](lessons/01-java-basics.md) | Done |
 | 2 | First Spring Boot app | [lessons/02-first-spring-boot.md](lessons/02-first-spring-boot.md) | Done |
-| 3 | REST API for tasks | | Next |
-| 4 | Database (PostgreSQL + Spring Data) | | |
+| 3 | REST API for tasks | [lessons/03-rest-api.md](lessons/03-rest-api.md) | Done |
+| 4 | Database (PostgreSQL + Spring Data) | | Next |
 | 5 | Tests (JUnit) | | |
 | 6 | Containers with Podman | | |
 | 7 | Kubernetes with kind | | |
