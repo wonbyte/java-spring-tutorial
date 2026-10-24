@@ -12,7 +12,7 @@ sudo apt update
 sudo apt install -y openjdk-21-jdk maven
 ```
 
-Later steps also need Podman, kubectl and kind. Each lesson tells you when.
+Later steps also need Podman, kubectl and minikube. Each lesson tells you when.
 
 ## The steps
 
@@ -24,7 +24,7 @@ Later steps also need Podman, kubectl and kind. Each lesson tells you when.
 | 4 | Database (PostgreSQL + Spring Data) | | Next |
 | 5 | Tests (JUnit) | | |
 | 6 | Containers with Podman | | |
-| 7 | Kubernetes with kind | | |
+| 7 | Kubernetes with minikube (Podman driver) | | |
 | 8 | Config, secrets, health checks, scaling | | |
 
 ## Project layout
